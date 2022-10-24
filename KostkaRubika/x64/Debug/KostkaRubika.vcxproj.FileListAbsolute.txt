@@ -1,0 +1,21 @@
+C:\Users\Kurus\source\repos\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.AssemblyReference.cache
+C:\Users\Kurus\source\repos\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Kurus\source\repos\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.MyForm.resources
+C:\Users\Kurus\source\repos\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.GenerateResource.cache
+C:\Users\Kurus\OneDrive\Pulpit\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.AssemblyReference.cache
+C:\Users\Kurus\OneDrive\Pulpit\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Kurus\OneDrive\Pulpit\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.MyForm.resources
+C:\Users\Kurus\OneDrive\Pulpit\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.MyForm1.resources
+C:\Users\Kurus\OneDrive\Pulpit\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.GenerateResource.cache
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.AssemblyReference.cache
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.GenerateResource.cache
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.Kostka_Rubika.resources
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.Logowanie.resources
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.Rejestracja.resources
+C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.AssemblyReference.cache
+C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.Kostka_Rubika.resources
+C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.Logowanie.resources
+C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.Rejestracja.resources
+C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.GenerateResource.cache

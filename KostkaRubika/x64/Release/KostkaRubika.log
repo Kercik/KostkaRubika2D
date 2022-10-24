@@ -1,0 +1,78 @@
+﻿  Kostka_Rubika.cpp
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka1.h(57,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(500,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(501,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(511,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(511,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(512,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(512,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(513,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(513,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(514,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(514,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(524,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(524,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(525,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(525,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(526,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(526,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(527,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(527,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(554,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(554,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(555,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(555,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(556,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(556,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(557,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(557,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(581,106): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(581,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(582,101): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(582,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(583,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(583,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(584,107): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(584,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.cpp(8,15): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  Logowanie.cpp
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka1.h(57,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(500,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(501,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(511,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(511,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(512,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(512,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(513,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(513,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(514,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(514,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(524,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(524,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(525,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(525,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(526,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(526,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(527,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(527,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(554,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(554,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(555,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(555,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(556,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(556,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(557,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(557,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(581,106): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(581,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(582,101): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(582,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(583,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(583,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(584,107): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka_Rubika.h(584,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka1.h(336): warning C4715: "Kostka1::check”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Kurus\Desktop\KostkaRubika\KostkaRubika\Kostka1.h(336): warning C4715: "Kostka1::check”: niewszystkie ścieżki kodu zwracają wartość
+  Kostka1.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+LINK : fatal error LNK1561: punkt wejścia musi być zdefiniowany
