@@ -1,1 +1,118 @@
-﻿  KostkaRubika.vcxproj -> C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\x64\Debug\KostkaRubika.exe
+﻿  Kostka1.cpp
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka1.h(57,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Kostka_Rubika.cpp
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka1.h(57,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(506,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(507,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(517,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(517,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(518,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(518,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(519,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(519,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(520,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(520,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(530,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(530,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(531,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(531,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(532,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(532,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(533,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(533,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(560,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(560,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(561,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(561,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(562,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(562,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(563,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(563,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(587,106): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(587,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(588,101): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(588,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(589,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(589,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(590,107): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(590,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.cpp(8,15): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  Logowanie.cpp
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka1.h(57,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(506,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(507,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(517,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(517,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(518,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(518,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(519,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(519,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(520,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(520,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(530,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(530,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(531,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(531,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(532,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(532,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(533,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(533,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(560,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(560,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(561,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(561,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(562,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(562,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(563,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(563,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(587,106): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(587,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(588,101): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(588,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(589,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(589,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(590,107): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(590,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Rejestracja.cpp
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka1.h(57,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(506,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(507,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(517,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(517,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(518,132): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(518,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(519,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(519,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(520,133): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(520,62): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(530,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(530,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(531,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(531,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(532,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(532,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(533,75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(533,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(560,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(560,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(561,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(561,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(562,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(562,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(563,108): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(563,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(587,106): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(587,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(588,101): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(588,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(589,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(589,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(590,107): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka_Rubika.h(590,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka1.h(336): warning C4715: "Kostka1::check”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka1.h(336): warning C4715: "Kostka1::check”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\Kostka1.h(336): warning C4715: "Kostka1::check”: niewszystkie ścieżki kodu zwracają wartość
+  Kostka1.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  KostkaRubika.vcxproj -> C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\x64\Debug\KostkaRubika.exe

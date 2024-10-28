@@ -68,6 +68,7 @@ namespace KostkaRubika {
 		/// </summary>
 		void InitializeComponent(void)
 		{
+			System::ComponentModel::ComponentResourceManager^ resources = (gcnew System::ComponentModel::ComponentResourceManager(Rejestracja::typeid));
 			this->textBox2 = (gcnew System::Windows::Forms::TextBox());
 			this->textBox1 = (gcnew System::Windows::Forms::TextBox());
 			this->textBox3 = (gcnew System::Windows::Forms::TextBox());
@@ -150,6 +151,7 @@ namespace KostkaRubika {
 			this->Controls->Add(this->textBox2);
 			this->Controls->Add(this->textBox1);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::Fixed3D;
+			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
 			this->MaximizeBox = false;
 			this->MinimizeBox = false;
 			this->Name = L"Rejestracja";

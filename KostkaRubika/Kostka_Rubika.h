@@ -204,6 +204,7 @@ namespace KostkaRubika {
 		void InitializeComponent(void)
 		{
 			this->components = (gcnew System::ComponentModel::Container());
+			System::ComponentModel::ComponentResourceManager^ resources = (gcnew System::ComponentModel::ComponentResourceManager(Kostka_Rubika::typeid));
 			this->label1 = (gcnew System::Windows::Forms::Label());
 			this->button1 = (gcnew System::Windows::Forms::Button());
 			this->pictureBox1 = (gcnew System::Windows::Forms::PictureBox());
@@ -252,6 +253,7 @@ namespace KostkaRubika {
 			this->pictureBox1->TabIndex = 32;
 			this->pictureBox1->TabStop = false;
 			this->pictureBox1->Visible = false;
+			this->pictureBox1->Click += gcnew System::EventHandler(this, &Kostka_Rubika::pictureBox1_Click);
 			this->pictureBox1->Paint += gcnew System::Windows::Forms::PaintEventHandler(this, &Kostka_Rubika::pictureBox1_Paint);
 			// 
 			// numericUpDown1
@@ -338,6 +340,7 @@ namespace KostkaRubika {
 			this->Controls->Add(this->pictureBox1);
 			this->Controls->Add(this->menuStrip1);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::Fixed3D;
+			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
 			this->MainMenuStrip = this->menuStrip1;
 			this->MaximizeBox = false;
 			this->MinimizeBox = false;
@@ -656,5 +659,7 @@ namespace KostkaRubika {
 	private: System::Void toolStripMenuItem2_Click(System::Object^ sender, System::EventArgs^ e) {
 		MessageBox::Show("W,A,S,D <=> zmiana po³o¿enia\n\nI,J,K,L <=> obrót œcianki\n\nShift+W,A,S,D <=> Obrot kostki\n\nSpace <=> Obrót pierwszej œciany\n\nShift+Space <=> Powrót pierwszej œciany", "Pomoc");
 	}
-	};
+	private: System::Void pictureBox1_Click(System::Object^ sender, System::EventArgs^ e) {
+	}
+};
 }

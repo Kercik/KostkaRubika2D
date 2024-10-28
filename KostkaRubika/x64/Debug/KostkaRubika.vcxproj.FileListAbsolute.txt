@@ -19,3 +19,8 @@ C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\Ko
 C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.Logowanie.resources
 C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.Rejestracja.resources
 C:\Users\Kurus\Desktop\chyba wszystko git\KostkaRubika\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.GenerateResource.cache
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.AssemblyReference.cache
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Debug\KostkaRubika.Kostka_Rubika.resources
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Debug\KostkaRubika.Logowanie.resources
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Debug\KostkaRubika.Rejestracja.resources
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Debug\KostkaRubika.vcxproj.GenerateResource.cache

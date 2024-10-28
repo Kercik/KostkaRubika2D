@@ -1,0 +1,5 @@
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Release\KostkaRubika.vcxproj.AssemblyReference.cache
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Release\KostkaRubika.Kostka_Rubika.resources
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Release\KostkaRubika.Logowanie.resources
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Release\KostkaRubika.Rejestracja.resources
+C:\Users\Kurus\Documents\GitHub\KostkaRubika2D\KostkaRubika\x64\Release\KostkaRubika.vcxproj.GenerateResource.cache
